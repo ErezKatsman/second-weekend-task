@@ -149,7 +149,7 @@ for (const header of headers) {
   tr.append(th);
 }
 
-// I entered all the rows (with for(of)) in my table and painted the hours and % with if statements and named classes in td tags
+// // I entered all the rows (with for(of)) in my table and painted the hours and % with if statements and named classes in td tags
 const tbody = table.createTBody();
 
 for (const workout of workouts) {
