@@ -4,112 +4,72 @@
 const workouts = [
   {
     startedAt: new Date("2021-01-07:10:00"),
-
     finishedAt: new Date("2021-01-07:13:00"),
-
     goalsGiven: 5,
-
     goalsArchived: 3,
-
     workoutType: "GYM",
   },
   {
     startedAt: new Date("2021-01-08:16:00"),
-
     finishedAt: new Date("2021-01-08:17:00"),
-
     goalsGiven: 7,
-
     goalsArchived: 2,
-
     workoutType: "Fartlek Run",
   },
   {
     startedAt: new Date("2021-01-10:18:00"),
-
     finishedAt: new Date("2021-01-10:20:00"),
-
     goalsGiven: 6,
-
     goalsArchived: 5,
-
     workoutType: "20KM RUN",
   },
   {
     startedAt: new Date("2021-01-11:08:00"),
-
     finishedAt: new Date("2021-01-11:11:00"),
-
     goalsGiven: 8,
-
     goalsArchived: 6,
-
     workoutType: "3 KM RUN + StreetWorkout",
   },
   {
     startedAt: new Date("2021-01-13:13:00"),
-
     finishedAt: new Date("2021-01-13:19:00"),
-
     goalsGiven: 5,
-
     goalsArchived: 4,
-
     workoutType: "GYM",
   },
   {
     startedAt: new Date("2021-01-14:07:00"),
-
     finishedAt: new Date("2021-01-14:12:00"),
-
     goalsGiven: 10,
-
     goalsArchived: 4,
-
     workoutType: "Biking",
   },
   {
     startedAt: new Date("2021-01-15:13:00"),
-
     finishedAt: new Date("2021-01-15:15:00"),
-
     goalsGiven: 2,
-
     goalsArchived: 2,
-
     workoutType: "6KM Walk",
   },
   {
     startedAt: new Date("2021-01-16:18:00"),
-
     finishedAt: new Date("2021-01-16:20:00"),
-
     goalsGiven: 5,
-
     goalsArchived: 1,
-
     workoutType: "GYM",
   },
   {
     startedAt: new Date("2021-01-18:11:00"),
-
     finishedAt: new Date("2021-01-18:14:00"),
-
     goalsGiven: 7,
-
     goalsArchived: 4,
-
     workoutType: "16KM RUN",
   },
   {
     startedAt: new Date("2021-01-20:15:00"),
-
     finishedAt: new Date("2021-01-20:19:00"),
-
     goalsGiven: 13,
-
     goalsArchived: 10,
-
     workoutType: "StreetWorkout",
   },
 ];
