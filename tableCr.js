@@ -134,7 +134,6 @@ document.write(
   <th>Goals<br>Given</th>
   <th>Goals<br>Archived</th>
   <th>Goals<br>Archived %</th>
-  
   </tr>`
 );
 
